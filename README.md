@@ -1,73 +1,75 @@
 # 👋 Hi, I'm Roshan Surjuse
 
-## 💻 MSc Computer Science Candidate | AI & Python Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+Candidate;AI+%26+Python+Developer;Building+AI-Powered+Applications" />
 
-I am passionate about Artificial Intelligence, Software Development, and building innovative technology solutions.
+---
 
-I enjoy creating AI-powered applications, automation tools, and modern web applications using Python and emerging technologies.
+## 🚀 About Me
+
+🎓 MSc Computer Science Candidate  
+🤖 Passionate about Artificial Intelligence and Software Development  
+🐍 Python Developer building AI-powered applications  
+🌱 Continuously learning Machine Learning, Generative AI, and Cloud Technologies
+
+I enjoy creating innovative software solutions that solve real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+### AI & Development
+![Artificial Intelligence](https://img.shields.io/badge/AI-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 
 ---
 
 ## 🚀 Featured Project
 
-### 🤖 AI Resume Builder
+## 🤖 AI Resume Builder
 
-An AI-powered ATS Resume Builder built using Python and Streamlit.
+AI-powered ATS Resume Builder developed using Python and Streamlit.
 
-✨ Features:
-- AI Professional Summary Generation
-- ATS Resume Score Analysis
-- Keyword Matching & Missing Keyword Detection
-- Professional PDF Resume Generation
-- Interactive Web Interface
-- Cloud Deployment
+### Features:
+✅ AI Resume Summary Generation  
+✅ ATS Score Analysis  
+✅ Keyword Matching System  
+✅ Missing Keyword Detection  
+✅ PDF Resume Generation  
+✅ Live Cloud Deployment  
 
 🌐 Live Demo:
 https://ai-resume-builder-gn4bfy4rus5ud4wxvd5s7q.streamlit.app/
 
-💻 Source Code:
-https://github.com/roshan-surjuse/ai-resume-builder
-
----
-
-## 🛠 Technical Skills
-
-### Programming
-- Python
-- SQL
-- Java
-
-### AI & Data
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Generative AI
-
-### Tools & Technologies
-- Streamlit
-- Git & GitHub
-- VS Code
-- Web Development
+💻 Repository:
+https://github.com/roshan-surjure/ai-resume-builder
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced AI Applications
+- Advanced Artificial Intelligence
 - Machine Learning Projects
+- Generative AI
 - Cloud Deployment
-- Software Development Practices
+- Software Engineering Practices
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
-(Add your LinkedIn profile link)
-
 GitHub:
 https://github.com/roshan-surjuse
 
+LinkedIn:
+(Add your LinkedIn profile link)
+
 ---
 
-⭐ Building projects and continuously improving my skills in AI and Software Development.
+⭐ Building the future with AI and Software Development 🚀
